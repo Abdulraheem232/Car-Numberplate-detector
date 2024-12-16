@@ -1,4 +1,3 @@
-Here’s an updated version of your `README.md` file with instructions on how to clone the repository:
 
 ---
 
