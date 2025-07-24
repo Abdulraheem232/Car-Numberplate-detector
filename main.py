@@ -1,3 +1,4 @@
+#Important note this only work for russan number plates
 import cv2
 
 test_img = cv2.imread("test.jpg")
